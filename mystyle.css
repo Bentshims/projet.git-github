@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:antiquewhite;
+}
+.test{
+    background-color: aquamarine;
+    width: 3OOpx;
+    height: 200px;
+    margin: 200px;
+    text-align: center;
+    line-height: 200px;
+
+    
+}
