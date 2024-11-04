@@ -12,3 +12,7 @@ body{
     
     
 }
+p{
+    line-height: 2px;
+    text-transform:capitalize;
+}
