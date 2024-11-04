@@ -2,17 +2,19 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:antiquewhite;
+    background-color:rgba(247, 248, 236, 0.811);
     text-align: center;
 }
-.test{
-    width: 3OOpx;
-    height: 200px;
-    margin: 200px;
+.test{position: relative;
+    top: 150px;
+    left: 900px;
+    width: 600px;
+    padding: 8px;
+
     
     
 }
 p{
-    line-height: 2px;
+    line-height: 32px;
     text-transform:capitalize;
 }
